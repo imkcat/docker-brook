@@ -1,6 +1,6 @@
 FROM alpine:3.7
 
-LABEL maintainer="Kcat"
+LABEL maintainer="ImKcat <kcatdeveloper@icloud.com>"
 
 ENV BROOK_VERSION="20180401"
 
