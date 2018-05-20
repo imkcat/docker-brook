@@ -7,7 +7,7 @@ The docker image for [Brook](https://github.com/txthinking/brook).
 ## Usage
 
 ```
-docker -d --name brook -p 9999:9999 imkcat/brook server -l :9999 -p password
+docker run -d --name brook -p 9999:9999 imkcat/brook server -l :9999 -p password
 ```
 
 ## License
